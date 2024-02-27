@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=connect4
+comment0.text=\n\ Write\ a\ description\ of\ class\ connect4\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ initializeBoard()
+comment3.params=
+comment3.target=void\ printBoard()
+comment4.params=scanner\ currentPlayer
+comment4.target=int\ getColumn(java.util.Scanner,\ char)
+comment5.params=row\ col\ player
+comment5.target=boolean\ checkWin(int,\ int,\ char)
+comment6.params=
+comment6.target=boolean\ checkDraw()
+numComments=7
