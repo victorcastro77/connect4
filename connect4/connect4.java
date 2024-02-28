@@ -52,7 +52,7 @@ public class connect4
     }
 
     private static void printBoard() {
-        System.out.println("  1 2 3 4 5 6 7");
+        System.out.println(" 1 2 3 4 5 6 7");
         for (int i = 0; i < Constants.ROWS; i++) {
             System.out.print("|");
             for (int j = 0; j < Constants.COLS; j++) {
